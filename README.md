@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @susi2005kg
+- 👋 Hi, I’m Simon
 - 👀 I’m interested in Programming, Pentesting and other Online-Stuff
 - 🌱 I’m currently learning Coding in ~5 Language + HTML and CSS(HTML and CSS arent Languages in my opinion ^^)
 - 🦄 I´m publishing to GitHub because I´m personnaly using github repos for much Projects
-
-- 📫 You can contact me via Instagram & Twitter if needed. 
 
 
 <!---
